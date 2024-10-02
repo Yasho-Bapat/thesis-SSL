@@ -22,3 +22,13 @@
   * 
 * Can one primary ECU contact multiple directors? 
 * Why is constrained delegation not possible in the Uptane standard?
+
+
+# Uptane community calls (fridays)
+### For October 4
+* If the onboard time source is interacting with the external time-server, it should have external network access right? Isn't it the case that the TCU has access to the network? tell me if im wrong
+
+# Meeting with Justin (wednesdays)
+### For October 2nd
+* What can be done to prevent an arbitrary software attack?
+* How should we take up the midsem report and stuff? Do you want it in a particular format? How would you grade me? 

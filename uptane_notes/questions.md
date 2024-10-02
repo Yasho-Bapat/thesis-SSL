@@ -31,5 +31,6 @@
 # Meeting with Justin (wednesdays)
 ### For October 2nd
 * What can be done to prevent an arbitrary software attack?
-* Elevation of privilege for primary - how can we ensure that the primary's core functionality of full verification doesn't get overridden? 
+* Elevation of privilege for primary - how can we ensure that the primary's core functionality of full verification doesn't get overridden?
+* Where would a partial bundle installation attack go? on the primary or secondary?
 * How should we take up the midsem report and stuff? Do you want it in a particular format? How would you grade me? 

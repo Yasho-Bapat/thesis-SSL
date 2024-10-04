@@ -27,10 +27,16 @@
 # Uptane community calls (fridays)
 ### For October 4
 * If the onboard time source is interacting with the external time-server, it should have external network access right? Isn't it the case that the TCU has access to the network? tell me if im wrong
-
+1. add logger process to vehicle trust boundary 
+* how to take this forward
+  * create attack trees
+  * this will be an input to the TARA process - assets
 # Meeting with Justin (wednesdays)
 ### For October 2nd
 * What can be done to prevent an arbitrary software attack?
+  * If the director repo gets compromised, then an arbitrary software attack is not of much concern, because that will be caught 
+  * The situation where an arbitrary software attack is a concern is when the image repo gets compromised
+    * For this, the root and targets keys need to be compromised, but those are offline keys.
 * Elevation of privilege for primary - how can we ensure that the primary's core functionality of full verification doesn't get overridden?
 * Where would a partial bundle installation attack go? on the primary or secondary?
 * How should we take up the midsem report and stuff? Do you want it in a particular format? How would you grade me? 

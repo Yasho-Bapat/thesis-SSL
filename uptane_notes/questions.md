@@ -23,6 +23,11 @@
 * Can one primary ECU contact multiple directors? 
 * Why is constrained delegation not possible in the Uptane standard?
 
+### For Oct 8
+* for the logger storage service, can it be stored on an hsm?
+* For the logger process, what threats can be associated? can spoofing be associated with it considering the logger will be a process running on different devices, and not the device itself? how do signatures and certificates work for that?
+* 
+
 
 # Uptane community calls (fridays)
 ### For October 4
@@ -31,6 +36,8 @@
 * how to take this forward
   * create attack trees
   * this will be an input to the TARA process - assets
+
+
 # Meeting with Justin (wednesdays)
 ### For October 2nd
 * What can be done to prevent an arbitrary software attack?
@@ -40,3 +47,16 @@
 * Elevation of privilege for primary - how can we ensure that the primary's core functionality of full verification doesn't get overridden?
 * Where would a partial bundle installation attack go? on the primary or secondary?
 * How should we take up the midsem report and stuff? Do you want it in a particular format? How would you grade me? 
+
+### For October 9th
+* Thanks for the grade
+* Do you think we'll be able to get this into the standard? If not, where would you rather it go?
+  * the most logical thing is for it to be a standalone document
+* Did you submit it on the google form
+
+### For October 16th
+* I was thinking about adding delegations to the dataflow diagram and the threat model - creating a new one for it. Could you suggest some things I should keep in mind while modeling for that? Apart from that delegations only apply on image repo
+  * 
+* Can you explain terminating delegations? 
+  * 
+* I realized that one change I have to do is I should ideally show multiple update images coming from the image repository and then all of them being packaged and shipped as one bundle. 

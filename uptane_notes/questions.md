@@ -56,6 +56,8 @@
 
 ### For October 16th
 * I was thinking about adding delegations to the dataflow diagram and the threat model - creating a new one for it. Could you suggest some things I should keep in mind while modeling for that? Apart from that delegations only apply on image repo
+  * you can delegate only part of a namespace
+  * thresholds - 3 of these 5 ppl 
   * 
 * Can you explain terminating delegations? 
   * 

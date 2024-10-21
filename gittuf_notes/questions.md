@@ -8,5 +8,7 @@
    5. make cmd.go more gittuf indepenedent - more standalone
 
 ### To ask Patrick
-1. what to do for moving ahead with `pre-commit`
-   2. 
+1. What was the blob stuff aditya was saying about putting in the targets metadata? 
+2. If I specifically pull a git hook from .git/hooks, will it work? 
+3. I understand how the targets and when metadata is created, but how exactly is it used to verify stuff? 
+

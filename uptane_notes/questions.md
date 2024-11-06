@@ -66,8 +66,12 @@
 ### November 6th
 * Last in person meeting
 * Did you get a chance to go through the [Google Doc](https://docs.google.com/document/d/1qvwMfmPXuJJko51OcnTHaV-s3GYYVfpgfMq_4CGSr5k/edit?tab=t.0#heading=h.jw29vkrdvnh9)?
+  * 
 * Would you be willing to write an LoR for me? Not immediately, but sometime in the near future?
 * There's this [SAE conference](https://saeindia.zohobackstage.in/Automotive-Cybersecurity) in Bangalore November 22 and 23, on automotive cybersecurity. The agenda seems interesting, it is about TARA for charging ECUs and more importantly, discusses automotive cybersecurity standards in india. I think it could be a good opportunity to promote Uptane, network and get an understanding about Indian standards for automotive cybersecurity. I was thinking about going - Would NYU be able to sponsor my registration? 
   * It is 12,000 + tax ~= $170. I will manage the flight tickets and accommodation by myself.
-* I think I've been doing good work on gittuf - I've designed the high level idea about how the hooks distribution should work with Patrick, and i'm developing a PoC for it. Since I'm not getting any credit for it, I was wondering if I could get compensated for it. I remember in our first meeting you mentioned that I can't get paid and get credit for the same work but we can figure out a workaround if I do good work. This doesn't count as credit. What do you think? 
+  * Unfortunately cannot be done due to logistical issues. He would love to but cant.
+  * Suggested bringing it up with the community
+* I think I've been doing good work on gittuf - I've designed the high level idea about how the hooks distribution should work with Patrick, and i'm developing a PoC for it. Since I'm not getting any credit for it, I was wondering if I could get compensated for it. I remember in our first meeting you mentioned that I can't get paid and get credit for the same work but we can figure out a workaround if I do good work. This doesn't count as credit. What do you think?
+  * Again, no because of logistical issues
 * Also, if this is possible, i was thinking about maybe continuing being affilliated with NYU to work on gittuf and be on the payroll - it doesn't matter how much it is, but it would be nice. If you say no, I think I will still be open to contributing to it because I liked doing it.  
